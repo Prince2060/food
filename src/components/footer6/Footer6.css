@@ -1,0 +1,40 @@
+.footer6{
+    width: 100%;
+    margin-left: 50px;
+}
+
+.chef{
+    width: 150px;
+    height: 150px;
+}
+.imageandtext{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+padding-top: 150px;
+}
+.foodiefooter{
+    font-size: 40px;
+}
+.footerline{
+    border: 1px solid grey;
+    margin-top: 20px;
+}
+.footercontainer{
+    display: flex;
+    justify-content: space-between;
+   padding: 40px 40px 20px 20px;
+}
+.logos{
+    display: flex;
+    gap: 40px;
+}
+.flogo:hover{
+    cursor: pointer;
+    scale: 130%;
+    transition-delay: 200ms;
+}
+.footertext{
+    color: grey;
+    cursor: pointer;
+}

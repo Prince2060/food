@@ -1,0 +1,116 @@
+.body4{
+    background-color: rgba(245,238,233,255);
+    margin: 0px 50px;
+    margin-top: 60px;
+    display: flex;
+    position: relative;
+   width: 91%;
+}
+.inside{
+    background-color: white;
+ margin: 20px;
+ text-align: right;
+ border-radius: 12px;
+ box-shadow: 2px 2px 2px 2px grey;
+ 
+}
+.cartlogo{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+.blueimage{
+    height: 140px;
+    width: 180px;
+}
+.blueimage:hover{
+    /* height: 150px;
+    width: 190px; */
+    animation-delay: 2s;
+    cursor: pointer;
+    scale:110%;
+    transition-duration: 300ms;
+}
+.twoimages{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 10px;
+    gap: 50px;
+}
+.blueberries{
+    font-size: 25px;
+    padding-right: 10px;
+    padding-top: 40px;
+}
+.blueberries1{
+    font-size: 12px;
+    padding-right: 10px;
+    color: grey;
+}
+.pounds{
+    display: flex;
+   justify-content: right;
+   padding-right: 10px;
+  padding-top: 10px;
+}
+.pound{
+    color: red;
+}
+.twoimagesrasp{
+    display: flex;
+    align-items: center;
+    position: absolute; 
+    gap: 80px;
+    top: -10px;
+}
+.insiderasp{
+    background-color: white;
+    margin: 20px;
+    text-align: right;
+    border-radius: 12px; 
+    box-shadow: 2px 2px 2px 2px grey;
+    
+}
+.rasp{
+    font-size: 25px;
+ padding-right: 9px;
+    padding-top: 180px;
+    padding-left: 180px;
+    
+}  
+.insidepomo{
+    background-color: white;
+    margin: 20px;
+    text-align: right;
+    border-radius: 12px;  
+    box-shadow: 2px 2px 2px 2px grey;
+}
+.blueberries2{
+    font-size: 20px;
+    padding-right: 10px;
+    width: 380px;
+    padding-top: 220px;
+}
+.twoimagespomo{
+    display: flex;
+    align-items: center;
+  gap: 80px;
+    position: absolute; 
+    top: 1px; 
+    padding-left: 20px;
+}
+.pomo{
+    font-size: 25px;
+    padding-right: 9px;
+       padding-top: 180px;
+       padding-left: 150px;
+}
+.watermelon{
+    font-size: 25px;
+    padding-right: 9px;
+       padding-top: 180px;
+       padding-left: 140px;
+}
+
+

@@ -1,0 +1,131 @@
+.body6 {
+    background-color: rgba(245, 238, 233, 255);
+    position: relative;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 0px;
+    margin-left: 50px;
+    padding-top: 20px;
+
+}
+
+.icecream2 {
+    height: 200px;
+    width: 150px;
+    margin-left: 20px;
+}
+
+.insidebox6 {
+    background-color: white;
+    margin: 20px;
+    border-radius: 12px;
+}
+
+.pound-1 {
+    display: flex;
+    justify-content: right;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.ice-1 {
+    padding-left: 90px;
+    padding-top: 200px;
+    font-size: 20px;
+    margin-right: 20px;
+
+}
+
+.ice-12 {
+    font-size: 12px;
+    color: grey;
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.cartlogo-1 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+
+}
+
+.twoimage6 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 10px;
+    gap: 100px;
+
+
+}
+
+.twoimage61 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 340px;
+    gap: 100px;
+
+}
+
+.twoimage62 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 670px;
+    gap: 100px;
+
+}
+
+.twoimage63 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 1000px;
+    gap: 100px;
+
+}
+
+.twoimage64 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 1330px;
+    gap: 100px;
+
+}
+
+.twoimage65 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 1660px;
+    gap: 100px;
+
+}
+
+.twoimage66 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 1990px;
+    gap: 100px;
+
+}
+.icecream2:hover{
+    cursor: pointer;
+    scale: 110%;
+    transition-duration: 300ms;
+}

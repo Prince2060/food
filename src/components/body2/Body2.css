@@ -1,0 +1,105 @@
+.box2{
+
+}
+.threeboxes{
+    display: flex;
+    gap: 50px;
+   margin-left: 200px;
+   justify-content: center;
+}
+.box{
+    /* border: 1px solid black; */
+    background-color: white transparent;
+   margin-top: 120px;
+   font-size: 20px;
+   position: relative;
+   border-radius: 10px;
+   align-items: center;
+   box-shadow: 6px 6px 6px rgb(197, 195, 195);
+
+}
+@media only screen and (max-width: 600px) {
+    .thefaster {
+      color: red;
+      font-size: 12px;
+    }
+  }
+.i1{
+    position: absolute;
+height: 180px;
+width: 180px;
+padding: 0px 20px;
+top: -80px;
+}
+.i1:hover,.i12:hover{
+    height: 185px;
+width: 185px;
+cursor: pointer;
+}
+.fresh{
+    color: grey;
+    padding: 0px 19px;
+    margin-top: 10px;
+}
+.dollorandnum{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 10px;
+}
+.dollor{
+    color: chocolate;
+}
+.strawtext{
+padding: 0px 50px;
+margin-top: 100px;
+   
+}
+.lastbox{
+    width: fit-content;
+    background-color: white ;
+    margin-top: 60px;
+    font-size: 20px;
+    position: relative;
+    border-radius: 10px;
+    align-items: center;
+    box-shadow: 6px 6px 6px rgb(197, 195, 195); 
+    margin-left: 480px;
+
+   
+}
+.i12{
+    position: absolute;
+height: 180px;
+width: 180px;
+padding: 0px 20px;
+top: -80px;
+}
+.background{
+    z-index: -10;
+    position: absolute;
+    top: 30px;
+    right: 130px;
+    height: 620px;
+    width: 450px;
+}
+.mixedfresh{
+    color: grey;
+    padding: 0px 45px;
+    margin-top: 10px;
+}
+.freshtilopia{
+    color: grey;
+    padding: 0px 42px;
+    margin-top: 10px;
+}
+.tilopiatext{
+    padding: 0px 80px;
+    margin-top: 100px;   
+    }
+    .icetext{
+        padding: 0px 50px;
+margin-top: 60px;
+padding-top: 100px;
+    }
+

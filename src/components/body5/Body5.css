@@ -1,0 +1,58 @@
+.body5{
+/* background-color: rgba(245,238,233,255); */
+background-color: white;
+}
+.ourspecial{
+ padding-left: 830px;
+ padding-top: 100px;
+}
+.hotbox{
+    background-color: white;
+    justify-content: center;
+    border-radius: 8px;
+    padding: 10px;
+    width: 113px;
+    height: 120px;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+.hotbox:hover{
+    background-color: rgba(232,0,19,255);
+    cursor: pointer;
+    scale: 110%;
+
+}
+.round:hover{
+    background-color: white;
+}
+.round{
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    position: relative;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.spoon{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+
+}
+.menu{
+   text-align: center;
+   padding-top: 20px;
+   color: grey;
+}
+.nineboxes{
+    display: flex;
+  padding: 40px 200px;
+    justify-content: space-around;
+    margin-bottom: 40px;
+}
+
+
+

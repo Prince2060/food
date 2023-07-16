@@ -1,0 +1,42 @@
+ .container2{
+    display: flex;
+    gap: 10px;
+    padding-right: 125px;
+ }
+ 
+ .orangebox{
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 12px;
+}
+.orangebox:hover{
+    background-color:#f65a06 ;
+    cursor: pointer;
+    scale: 110%;
+    transition-duration: 300ms;
+}
+.body3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    align-items: center;
+}
+.container1{
+    padding-left: 60px;
+    display: flex;
+    font-size: 25px;
+    gap: 5px;
+}
+.ourfresh{
+    text-decoration: underline chocolate 4px;
+}
+.l{
+    transform: rotate(270deg);
+    -webkit-transform: rotate(270deg);
+    color: white;
+}
+.l1{
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    color: white;
+}
